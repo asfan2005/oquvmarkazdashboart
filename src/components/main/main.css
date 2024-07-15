@@ -1,0 +1,15 @@
+.app{
+   display: flex;
+}
+
+.menu_icons {
+  cursor: pointer;
+}
+
+.dashboart {
+  transition: width 0.3s;
+}
+
+.dashboart.w-100 {
+  width: 100%;
+}

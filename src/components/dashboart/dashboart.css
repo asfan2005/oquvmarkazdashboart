@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dashboart {
+  width: 80%;
+  border: inherit;
+  padding: 5px;
+}
+.dashboart {
+  width: 80%;
+  /* Add other styling here */
+}
+.w-100 {
+  width: 100%;
+}
+.fs-2 {
+  cursor: pointer;
+}
+
+.dashboart header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.dashboart .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.dashboart .btn {
+  font-size: 1rem;
+}

@@ -1,0 +1,9 @@
+export { default as Main } from "./main/Main";
+export { default as Menu } from "./menu/Menu";
+export { default as Dashboart } from "./dashboart/Dashboart";
+export { default as Home } from "./home/Home";
+export { default as RoyxatdanOtish } from "./royxatdanOtish/RoyxatdanOtish";
+export { default as SinfQoshish } from "./sinfqoshish/SinfQoshish";
+export { default as TalabalarRoyxati } from "./talabalarRoyxati/TalabalarRoyxati";
+export { default as Natijalar } from "./natijalar/Natijalar";
+export { default as OylikTolovlar } from "./oylikTolovlar/OylikTolovlar";
